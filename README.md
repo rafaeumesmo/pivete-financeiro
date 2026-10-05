@@ -46,27 +46,32 @@ A proposta é reduzir a fricção de cuidar do próprio dinheiro ao mínimo poss
 ## Funcionalidades
 
 - **Fila de contas em cards** com gestos de arrastar, animados com física de mola.
-- **Painel** com a visão do mês: o que foi pago, o que está pendente e o que vence em breve.
-- **Atividade**, um histórico de tudo que foi decidido.
-- **Social**: dividir contas com amigos e acompanhar cobranças.
-- **Gamificação** para tornar o hábito de organizar as contas mais leve.
-- **PWA instalável**, que funciona offline e abre como app nativo no celular.
-
-<!-- Prints: substitua pelos seus arquivos em docs/ -->
+  
 <p align="center">
   <img src="docs/telas/01-inicio.png" alt="Fila de contas em cards" width="100%">
   <br><sub>início: as contas em cards, prontas pro swipe</sub>
 </p>
 
-<p align="center">
+- **Painel** com a visão do mês: o que foi pago, o que está pendente e o que vence em breve.
+
+  <p align="center">
   <img src="docs/telas/02-painel.png" alt="Painel do mês" width="100%">
   <br><sub>painel: o que foi pago, o que tá pendente e o que vence</sub>
 </p>
 
-<p align="center">
+- **Atividade**, um histórico de tudo que foi decidido.
+
+  <p align="center">
   <img src="docs/telas/03-atividade.png" alt="Histórico de atividade" width="100%">
   <br><sub>atividade: o histórico do mês</sub>
 </p>
+
+- **Social**: dividir contas com amigos e acompanhar cobranças.
+- **Gamificação** para tornar o hábito de organizar as contas mais leve.
+- **PWA instalável**, que funciona offline e abre como app nativo no celular.
+
+<!-- Prints: substitua pelos seus arquivos em docs/ -->
+
 
 ## Decisões técnicas
 
