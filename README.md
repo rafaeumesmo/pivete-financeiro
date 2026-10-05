@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/assets/trocado-giz.svg">
-  <img src="docs/assets/trocado-noite.svg" alt="Trocado, mascote do Pivete Financeiro" width="120">
+  <img src="docs/assets/trocado-noite.svg" alt="Trocado, mascote do Pivete Financeiro" width="100%">
 </picture>
 
 # pivete financeiro
