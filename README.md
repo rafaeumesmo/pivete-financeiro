@@ -1,9 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/trocado-giz.svg">
-  <img src="docs/assets/trocado-noite.svg" alt="Trocado, mascote do Pivete Financeiro" width="100%">
-</picture>
+<p align="center">
+  <img src="docs/marca/icone.png" alt="Pivete Financeiro" width="120">
+</p>
 
 # pivete financeiro
 
