@@ -54,9 +54,18 @@ A proposta é reduzir a fricção de cuidar do próprio dinheiro ao mínimo poss
 
 <!-- Prints: substitua pelos seus arquivos em docs/ -->
 <p align="center">
-  <img src="docs/telas/01-inicio.png" alt="Fila de contas" width="220">
-  <img src="docs/telas/02-painel.png" alt="Painel do mês" width="220">
-  <img src="docs/telas/03-atividade.png" alt="Dividir e cobranças" width="220">
+  <img src="docs/telas/01-inicio.png" alt="Fila de contas em cards" width="100%">
+  <br><sub>início: as contas em cards, prontas pro swipe</sub>
+</p>
+
+<p align="center">
+  <img src="docs/telas/02-painel.png" alt="Painel do mês" width="100%">
+  <br><sub>painel: o que foi pago, o que tá pendente e o que vence</sub>
+</p>
+
+<p align="center">
+  <img src="docs/telas/03-atividade.png" alt="Histórico de atividade" width="100%">
+  <br><sub>atividade: o histórico do mês</sub>
 </p>
 
 ## Decisões técnicas
