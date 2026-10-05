@@ -24,7 +24,7 @@ sem planilha, sem coach, sem conectar banco.
 
 <!-- Coloque aqui um GIF do swipe (recomendado: 600px de largura, até 10 MB) -->
 <p align="center">
-  <img src="docs/demo/swipe.gif" alt="Demonstração do swipe de contas" width="320">
+  <img src="docs/demo/swipe.gif" alt="Demonstração do swipe de contas" width="100%">
 </p>
 
 ---
