@@ -54,9 +54,9 @@ A proposta é reduzir a fricção de cuidar do próprio dinheiro ao mínimo poss
 
 <!-- Prints: substitua pelos seus arquivos em docs/ -->
 <p align="center">
-  <img src="docs/print-fila.png" alt="Fila de contas" width="220">
-  <img src="docs/print-painel.png" alt="Painel do mês" width="220">
-  <img src="docs/print-social.png" alt="Dividir e cobranças" width="220">
+  <img src="docs/telas/01-inicio.png" alt="Fila de contas" width="220">
+  <img src="docs/telas/02-painel.png" alt="Painel do mês" width="220">
+  <img src="docs/telas/03-atividade.png" alt="Dividir e cobranças" width="220">
 </p>
 
 ## Decisões técnicas
